@@ -15,6 +15,7 @@ public class JavaApplication23 {
      */
     public static void main(String[] args) {
         // TODO code application logic here sdds
+        System.out.println("Soy pro");
     }
     
 }
